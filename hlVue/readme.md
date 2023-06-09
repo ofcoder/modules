@@ -7,7 +7,7 @@
     ?>
     
     <?$APPLICATION->IncludeComponent(
-        "itjet:catalog",
+        "ofcoder:catalog",
         "list"
     );?>
     
